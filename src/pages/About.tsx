@@ -3,10 +3,10 @@ import React from 'react';
 const About = () => {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-      <h1 className="text-4xl font-display font-bold text-primary-900 mb-8">About Us</h1>
-      <div className="prose prose-lg max-w-none">
-        <p className="text-gray-600 mb-6">
-          KreditWala is a leading financial services provider committed to helping individuals and businesses achieve their financial goals. With years of experience in the industry, we have built a reputation for providing reliable and transparent financial solutions.
+      <h1 className="text-3xl font-bold text-gray-900 mb-8">About Us</h1>
+      <div className="bg-white rounded-lg shadow-lg p-6">
+        <p className="text-gray-600">
+          YELLOWIND SERVICES PRIVATE LIMITED is a leading financial services provider committed to helping individuals and businesses achieve their financial goals. With years of experience in the industry, we have built a reputation for providing reliable and transparent financial solutions.
         </p>
         <p className="text-gray-600 mb-6">
           Our mission is to make financial services accessible to everyone. We believe in building long-term relationships with our clients by providing personalized solutions that meet their unique needs.

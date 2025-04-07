@@ -37,14 +37,14 @@ const TermsConditions: React.FC = () => {
             <section>
               <h2 className="text-xl font-semibold mb-4">4. Intellectual Property</h2>
               <p className="text-gray-600">
-                All content on this website, including text, graphics, logos, and software, is the property of Kreditwala and is protected by intellectual property laws.
+                All content on this website, including text, graphics, logos, and software, is the property of YELLOWIND SERVICES PRIVATE LIMITED and is protected by intellectual property laws.
               </p>
             </section>
 
             <section>
               <h2 className="text-xl font-semibold mb-4">5. Limitation of Liability</h2>
               <p className="text-gray-600">
-                Kreditwala shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the services.
+                YELLOWIND SERVICES PRIVATE LIMITED shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the services.
               </p>
             </section>
 
@@ -65,7 +65,7 @@ const TermsConditions: React.FC = () => {
             <section>
               <h2 className="text-xl font-semibold mb-4">8. Contact Information</h2>
               <p className="text-gray-600">
-                For any questions regarding these terms and conditions, please contact us at legal@kreditwala.com
+                For any questions regarding these terms and conditions, please contact us at legal@yellowind.com
               </p>
             </section>
           </div>

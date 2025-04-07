@@ -38,7 +38,7 @@ const TravelCard = () => {
           {/* Features */}
           <div className="md:col-span-2">
             <div className="bg-white rounded-lg shadow-lg p-6 mb-8">
-              <h2 className="text-2xl font-bold mb-4">Why Choose Kreditwala Travel Card?</h2>
+              <h2 className="text-2xl font-bold mb-4">Why Choose YELLOWIND SERVICES PRIVATE LIMITED Travel Card?</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div className="flex items-start">
                   <div className="flex-shrink-0">

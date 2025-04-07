@@ -11,14 +11,14 @@ const Header = () => {
           <div className="flex flex-row items-center justify-between w-full sm:w-auto sm:space-x-8">
             <div className="flex items-center">
               <FaPhone className="mr-3 text-primary-300 text-base" />
-              <a href="tel:+919311757194" className="text-sm font-medium hover:text-primary-300 transition-colors">
-                +91 93117 57194
+              <a href="tel:01141600519" className="text-sm font-medium hover:text-primary-300 transition-colors">
+                01141600519
               </a>
             </div>
             <div className="flex items-center">
               <FaEnvelope className="mr-3 text-primary-300 text-base" />
-              <a href="mailto:support@kreditwala.com" className="text-sm font-medium hover:text-primary-300 transition-colors">
-                support@kreditwala.com
+              <a href="mailto:support@yellowind.com" className="text-sm font-medium hover:text-primary-300 transition-colors">
+                support@yellowind.com
               </a>
             </div>
           </div>

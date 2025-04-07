@@ -7,27 +7,27 @@ const Footer = () => {
     {
       name: 'Facebook',
       icon: FaFacebook,
-      href: 'https://facebook.com/kreditwala',
+      href: 'https://facebook.com/YELLOWIND SERVICES PRIVATE LIMITED',
     },
     {
       name: 'Instagram',
       icon: FaInstagram,
-      href: 'https://instagram.com/kreditwala',
+      href: 'https://instagram.com/YELLOWIND SERVICES PRIVATE LIMITED',
     },
     {
       name: 'Twitter',
       icon: FaTwitter,
-      href: 'https://twitter.com/kreditwala',
+      href: 'https://twitter.com/YELLOWIND SERVICES PRIVATE LIMITED',
     },
     {
       name: 'LinkedIn',
       icon: FaLinkedin,
-      href: 'https://linkedin.com/company/kreditwala',
+      href: 'https://linkedin.com/company/YELLOWIND SERVICES PRIVATE LIMITED',
     },
     {
       name: 'YouTube',
       icon: FaYoutube,
-      href: 'https://youtube.com/kreditwala',
+      href: 'https://youtube.com/YELLOWIND SERVICES PRIVATE LIMITED',
     },
   ];
 
@@ -81,7 +81,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <FaEnvelope className="mr-2 text-primary-400" />
-                <span className="text-primary-200">info@kreditwala.com</span>
+                <span className="text-primary-200">info@YELLOWIND SERVICES PRIVATE LIMITED.com</span>
               </li>
               <li className="flex items-center">
                 <FaMapMarkerAlt className="mr-2 text-primary-400" />
@@ -109,7 +109,7 @@ const Footer = () => {
         </div>
         <div className="mt-8 pt-8 border-t border-primary-800 text-center">
           <p className="text-primary-200">
-            © {new Date().getFullYear()} Kreditwala. All rights reserved.
+            © {new Date().getFullYear()} YELLOWIND SERVICES PRIVATE LIMITED. All rights reserved.
           </p>
         </div>
       </div>

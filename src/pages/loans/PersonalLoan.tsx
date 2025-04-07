@@ -38,7 +38,7 @@ const PersonalLoan = () => {
           {/* Features */}
           <div className="md:col-span-2">
             <div className="bg-white rounded-lg shadow-lg p-6 mb-8">
-              <h2 className="text-2xl font-bold mb-4">Why Choose Kreditwala Personal Loan?</h2>
+              <h2 className="text-2xl font-bold mb-4">Why Choose YELLOWIND SERVICES PRIVATE LIMITED Personal Loan?</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div className="flex items-start">
                   <div className="flex-shrink-0">
@@ -244,7 +244,7 @@ const PersonalLoan = () => {
             </div>
             <div className="bg-white rounded-lg shadow-lg p-6">
               <h3 className="text-lg font-medium mb-2">How long does it take to get a personal loan approved?</h3>
-              <p className="text-gray-600">With Kreditwala, you can get your personal loan approved within 24 hours, subject to document verification.</p>
+              <p className="text-gray-600">With YELLOWIND SERVICES PRIVATE LIMITED, you can get your personal loan approved within 24 hours, subject to document verification.</p>
             </div>
             <div className="bg-white rounded-lg shadow-lg p-6">
               <h3 className="text-lg font-medium mb-2">Can I prepay my personal loan?</h3>

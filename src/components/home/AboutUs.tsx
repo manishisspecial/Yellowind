@@ -9,10 +9,10 @@ const AboutUs = () => {
         <AnimatedSection>
           <div className="text-center">
             <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-              About Kreditwala
+              About YELLOWIND SERVICES PRIVATE LIMITED
             </h2>
             <p className="mt-3 max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">
-              Your Trusted Financial Partner
+              At YELLOWIND SERVICES PRIVATE LIMITED, we are committed to providing accessible and transparent financial solutions to help individuals and businesses achieve their goals. We believe in making financial services simple, efficient, and customer-centric.
             </p>
           </div>
 
@@ -25,7 +25,7 @@ const AboutUs = () => {
             >
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Our Mission</h3>
               <p className="text-gray-600">
-                At Kreditwala, we are committed to providing accessible and transparent financial solutions to help individuals and businesses achieve their goals. We believe in making financial services simple, efficient, and customer-centric.
+                At YELLOWIND SERVICES PRIVATE LIMITED, we are committed to providing accessible and transparent financial solutions to help individuals and businesses achieve their goals. We believe in making financial services simple, efficient, and customer-centric.
               </p>
             </motion.div>
 

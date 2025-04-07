@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-display font-bold mb-4">KreditWala</h3>
+            <h3 className="text-xl font-display font-bold mb-4">YELLOWIND SERVICES PRIVATE LIMITED</h3>
             <p className="text-primary-200">
               Your trusted partner in financial growth. We provide personalized financial solutions to help you achieve your dreams.
             </p>
@@ -74,20 +74,20 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <FaPhone className="mt-1 mr-3 text-primary-400" />
-                <a href="tel:+919311757194" className="text-primary-200 hover:text-white transition-colors">
-                  +91 93117 57194
+                <a href="tel:01141600519" className="text-primary-200 hover:text-white transition-colors">
+                  01141600519
                 </a>
               </li>
               <li className="flex items-start">
                 <FaEnvelope className="mt-1 mr-3 text-primary-400" />
-                <a href="mailto:support@kreditwala.com" className="text-primary-200 hover:text-white transition-colors">
-                  support@kreditwala.com
+                <a href="mailto:support@yellowind.com" className="text-primary-200 hover:text-white transition-colors">
+                  support@yellowind.com
                 </a>
               </li>
               <li className="flex items-start">
                 <FaMapMarkerAlt className="mt-1 mr-3 text-primary-400" />
                 <span className="text-primary-200">
-                  PLOT NO. Y9 &10, IIND FLOOR, MAIN NAJAFGARH ROAD, Vipin Garden, New Delhi, Delhi 110059
+                  B-5/3, SECOND FLOOR, FRONT SIDE, GULAB BAGH, UTTAM NAGAR, NEW DELHI -110059
                 </span>
               </li>
             </ul>
@@ -97,7 +97,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-primary-800 mt-12 pt-8 text-center text-primary-200">
-          <p>&copy; {new Date().getFullYear()} KreditWala. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} YELLOWIND SERVICES PRIVATE LIMITED. All rights reserved.</p>
         </div>
       </div>
     </footer>

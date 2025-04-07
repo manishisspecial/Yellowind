@@ -37,8 +37,8 @@ const Contact = () => {
               <FaPhone className="mt-1 mr-3 text-primary-500" />
               <div>
                 <h3 className="font-display font-bold text-primary-900">Phone</h3>
-                <a href="tel:+919311757194" className="text-gray-600 hover:text-primary-500 transition-colors">
-                  +91 93117 57194
+                <a href="tel:01141600519" className="text-gray-600 hover:text-primary-500 transition-colors">
+                  01141600519
                 </a>
               </div>
             </div>
@@ -46,8 +46,8 @@ const Contact = () => {
               <FaEnvelope className="mt-1 mr-3 text-primary-500" />
               <div>
                 <h3 className="font-display font-bold text-primary-900">Email</h3>
-                <a href="mailto:support@kreditwala.com" className="text-gray-600 hover:text-primary-500 transition-colors">
-                  support@kreditwala.com
+                <a href="mailto:support@yellowind.com" className="text-gray-600 hover:text-primary-500 transition-colors">
+                  support@yellowind.com
                 </a>
               </div>
             </div>
@@ -56,7 +56,7 @@ const Contact = () => {
               <div>
                 <h3 className="font-display font-bold text-primary-900">Address</h3>
                 <p className="text-gray-600">
-                  PLOT NO. Y9 &10, IIND FLOOR, MAIN NAJAFGARH ROAD, Vipin Garden, New Delhi, Delhi 110059
+                  B-5/3, SECOND FLOOR, FRONT SIDE, GULAB BAGH, UTTAM NAGAR, NEW DELHI -110059
                 </p>
               </div>
             </div>

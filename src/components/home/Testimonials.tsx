@@ -4,9 +4,10 @@ import { FaQuoteLeft } from 'react-icons/fa';
 
 const testimonials = [
   {
-    quote: "Kreditwala made my loan application process incredibly smooth. Their team was supportive throughout the journey.",
-    author: "Rahul Sharma",
-    role: "Small Business Owner",
+    name: "John Doe",
+    role: "Business Owner",
+    quote: "YELLOWIND SERVICES PRIVATE LIMITED made my loan application process incredibly smooth. Their team was supportive throughout the journey.",
+    image: "/images/testimonials/john.jpg"
   },
   {
     quote: "The best financial service I've experienced. Quick approval and transparent process.",

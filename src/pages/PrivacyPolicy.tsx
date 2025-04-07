@@ -70,7 +70,7 @@ const PrivacyPolicy: React.FC = () => {
             <section>
               <h2 className="text-xl font-semibold mb-4">Contact Us</h2>
               <p className="text-gray-600">
-                If you have any questions about this Privacy Policy, please contact us at privacy@kreditwala.com
+                If you have any questions about this Privacy Policy, please contact us at privacy@yellowind.com
               </p>
             </section>
           </div>

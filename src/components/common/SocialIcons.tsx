@@ -6,27 +6,27 @@ const SocialIcons = () => {
     {
       name: 'Facebook',
       icon: FaFacebook,
-      href: 'https://facebook.com/kreditwala',
+      href: 'https://facebook.com/yellowind',
     },
     {
       name: 'Instagram',
       icon: FaInstagram,
-      href: 'https://instagram.com/kreditwala',
+      href: 'https://instagram.com/yellowind',
     },
     {
       name: 'Twitter',
       icon: FaTwitter,
-      href: 'https://twitter.com/kreditwala',
+      href: 'https://twitter.com/yellowind',
     },
     {
       name: 'LinkedIn',
       icon: FaLinkedin,
-      href: 'https://linkedin.com/company/kreditwala',
+      href: 'https://linkedin.com/company/yellowind',
     },
     {
       name: 'YouTube',
       icon: FaYoutube,
-      href: 'https://youtube.com/kreditwala',
+      href: 'https://youtube.com/yellowind',
     },
   ];
 

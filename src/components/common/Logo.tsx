@@ -10,7 +10,7 @@ const Logo: React.FC<LogoProps> = ({ className = '' }) => {
     <Link to="/" className={`flex items-center ${className}`}>
       <img
         src="/images/logo.jpg"
-        alt="KreditWala Logo"
+        alt="YELLOWIND SERVICES PRIVATE LIMITED Logo"
         className="h-12 w-auto"
       />
     </Link>
