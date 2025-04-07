@@ -33,7 +33,7 @@ const Header = () => {
             </Link>
             <Link
               to="/business-partner/signup"
-              className="text-sm font-medium bg-primary-500 hover:bg-primary-600 px-5 py-2 rounded-md transition-colors whitespace-nowrap"
+              className="text-sm font-medium bg-accent-500 hover:bg-accent-600 px-5 py-2 rounded-md transition-colors whitespace-nowrap"
             >
               Register
             </Link>

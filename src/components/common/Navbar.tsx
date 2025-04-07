@@ -21,31 +21,31 @@ const Navbar = () => {
           <div className="hidden md:flex items-center space-x-8">
             <Link
               to="/"
-              className="text-gray-700 hover:text-primary-500 px-3 py-2 rounded-md text-sm font-medium transition-colors"
+              className="text-secondary-700 hover:text-primary-600 px-3 py-2 rounded-md text-sm font-medium transition-colors"
             >
               Home
             </Link>
             <Link
               to="/about"
-              className="text-gray-700 hover:text-primary-500 px-3 py-2 rounded-md text-sm font-medium transition-colors"
+              className="text-secondary-700 hover:text-primary-600 px-3 py-2 rounded-md text-sm font-medium transition-colors"
             >
               About
             </Link>
             <Link
               to="/services"
-              className="text-gray-700 hover:text-primary-500 px-3 py-2 rounded-md text-sm font-medium transition-colors"
+              className="text-secondary-700 hover:text-primary-600 px-3 py-2 rounded-md text-sm font-medium transition-colors"
             >
               Services
             </Link>
             <Link
               to="/contact"
-              className="text-gray-700 hover:text-primary-500 px-3 py-2 rounded-md text-sm font-medium transition-colors"
+              className="text-secondary-700 hover:text-primary-600 px-3 py-2 rounded-md text-sm font-medium transition-colors"
             >
               Contact
             </Link>
             <Link
               to="/apply-now"
-              className="bg-primary-500 text-white hover:bg-primary-600 px-4 py-2 rounded-md text-sm font-medium transition-colors"
+              className="bg-accent-500 text-white hover:bg-accent-600 px-4 py-2 rounded-md text-sm font-medium transition-colors"
             >
               Apply Now
             </Link>
@@ -55,7 +55,7 @@ const Navbar = () => {
           <div className="md:hidden">
             <button
               onClick={() => setIsOpen(!isOpen)}
-              className="text-gray-700 hover:text-primary-500 focus:outline-none"
+              className="text-secondary-700 hover:text-primary-600 focus:outline-none"
             >
               {isOpen ? (
                 <FaTimes className="h-6 w-6" />
@@ -72,31 +72,31 @@ const Navbar = () => {
         <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
           <Link
             to="/"
-            className="block text-gray-700 hover:text-primary-500 px-3 py-2 rounded-md text-base font-medium transition-colors"
+            className="block text-secondary-700 hover:text-primary-600 px-3 py-2 rounded-md text-base font-medium transition-colors"
           >
             Home
           </Link>
           <Link
             to="/about"
-            className="block text-gray-700 hover:text-primary-500 px-3 py-2 rounded-md text-base font-medium transition-colors"
+            className="block text-secondary-700 hover:text-primary-600 px-3 py-2 rounded-md text-base font-medium transition-colors"
           >
             About
           </Link>
           <Link
             to="/services"
-            className="block text-gray-700 hover:text-primary-500 px-3 py-2 rounded-md text-base font-medium transition-colors"
+            className="block text-secondary-700 hover:text-primary-600 px-3 py-2 rounded-md text-base font-medium transition-colors"
           >
             Services
           </Link>
           <Link
             to="/contact"
-            className="block text-gray-700 hover:text-primary-500 px-3 py-2 rounded-md text-base font-medium transition-colors"
+            className="block text-secondary-700 hover:text-primary-600 px-3 py-2 rounded-md text-base font-medium transition-colors"
           >
             Contact
           </Link>
           <Link
             to="/apply-now"
-            className="block bg-primary-500 text-white hover:bg-primary-600 px-4 py-2 rounded-md text-base font-medium transition-colors text-center"
+            className="block bg-accent-500 text-white hover:bg-accent-600 px-4 py-2 rounded-md text-base font-medium transition-colors text-center"
           >
             Apply Now
           </Link>

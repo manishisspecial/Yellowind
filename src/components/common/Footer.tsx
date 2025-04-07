@@ -73,19 +73,19 @@ const Footer = () => {
             <h4 className="text-lg font-display font-bold mb-4">Contact Us</h4>
             <ul className="space-y-4">
               <li className="flex items-start">
-                <FaPhone className="mt-1 mr-3 text-primary-400" />
+                <FaPhone className="mt-1 mr-3 text-accent-400" />
                 <a href="tel:01141600519" className="text-primary-200 hover:text-white transition-colors">
                   01141600519
                 </a>
               </li>
               <li className="flex items-start">
-                <FaEnvelope className="mt-1 mr-3 text-primary-400" />
+                <FaEnvelope className="mt-1 mr-3 text-accent-400" />
                 <a href="mailto:support@yellowind.com" className="text-primary-200 hover:text-white transition-colors">
                   support@yellowind.com
                 </a>
               </li>
               <li className="flex items-start">
-                <FaMapMarkerAlt className="mt-1 mr-3 text-primary-400" />
+                <FaMapMarkerAlt className="mt-1 mr-3 text-accent-400" />
                 <span className="text-primary-200">
                   B-5/3, SECOND FLOOR, FRONT SIDE, GULAB BAGH, UTTAM NAGAR, NEW DELHI -110059
                 </span>
